@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bookshop_backend_web:war" />
+      <artifact name="bookshop_front_web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c642bdcb-97e6-4753-bd2f-7f07d1c3cca0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bookshop_backend_web_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bookshop_backend_web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bookshop_front_web_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bookshop_front_web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_7_5.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_2.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/pom.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/pom.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/shop_backend_web.iml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/java/com/xzy/aop/LogAspectServiceApi.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/java/com/xzy/controller/ProductTypeController.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/java/com/xzy/controller/SysuserController.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/java/com/xzy/controller/UserController.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/dataSource.properties" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/ehcache.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/ehcache.xsd" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/logs/logback.txt" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/spring-dao.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/spring-ehcache.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/resources/spring-service.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/bootstrap.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/file.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/index.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/login.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/mycss.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/style.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/css/zshop.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/demo.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/demo_fontclass.html" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/demo_symbol.html" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/demo_unicode.html" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/iconfont.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/3.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/33.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/4.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/add.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/backimage.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/com-logo1.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/hotaddress1.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/hotaddress2.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/hotaddress3.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/image.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop1.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop10.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop2.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop3.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop4.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop5.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop6.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop7.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop8.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/shop9.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/temp.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/images/user.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/bootstrap-paginator.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/bootstrap.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/index.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/jquery.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/jquery.min.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/login.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/template.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/userSetting.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/js/zshop.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/layer.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/views/clearsuccess.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/views/main.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/views/productTypeManager.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/views/regist.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/shop_backend_web/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/pom.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/Exception/ProductTypeExistException.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/Exception/SysuserExistException.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/constant/PageInationConstant.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/constant/ProductTypeConstant.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/constant/ResponseStatusConstant.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/utils/MD5SaltUtil.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/utils/MD5Util.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/src/main/java/com/xzy/utils/ResponseResult.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_common/zshop_common.iml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_dao/pom.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_dao/src/main/java/com/xzy/dao/ProductTypeDao.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_dao/src/main/java/com/xzy/dao/UserDao.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_dao/src/main/java/com/xzy/mapper/ProductTypeMapper.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_dao/zshop_dao.iml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/pom.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/java/com/xzy/controller/UserController.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/resources/dataSource.properties" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/resources/logs/logback.txt" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/resources/spring-dao.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/resources/spring-service.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/bootstrap.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/file.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/index.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/login.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/mycss.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/style.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/css/zshop.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/demo.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/demo_fontclass.html" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/demo_symbol.html" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/demo_unicode.html" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/iconfont.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/3.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/33.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/4.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/add.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/backimage.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/com-logo1.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/hotaddress1.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/hotaddress2.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/hotaddress3.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/image.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop1.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop10.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop2.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop3.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop4.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop5.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop6.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop7.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop8.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/shop9.jpg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/temp.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/images/user.jpeg" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/bootstrap-paginator.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/bootstrap.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/index.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/jquery.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/jquery.min.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/login.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/template.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/userSetting.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/js/zshop.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/layer.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/main.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/regist.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_front_web/zshop_front_web.iml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_parent.iml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_pojo/pom.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_pojo/src/main/java/com/xzy/pojo/ProductType.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_pojo/src/main/java/com/xzy/pojo/User.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_pojo/src/main/java/com/xzy/vo/Person.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_pojo/src/main/java/com/xzy/vo/UserVo.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_pojo/zshop_pojo.iml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_service/pom.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_service/src/main/java/com/xzy/service/ProductTypeService.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_service/src/main/java/com/xzy/service/UserService.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_service/src/main/java/com/xzy/service/impl/ProductTypeServiceImpl.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_service/src/main/java/com/xzy/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop - fu/zshop_parent/zshop_service/zshop_service.iml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="I:/spring_demo/z-shop/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change beforePath="I:/spring_demo/springmvc004/.idea/compiler.xml" beforeDir="false" afterPath="I:/spring_demo/springmvc004/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="I:/spring_demo/springmvc004/.idea/vcs.xml" beforeDir="false" afterPath="I:/spring_demo/springmvc004/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="I:/spring_demo/springmvc004/pom.xml" beforeDir="false" afterPath="I:/spring_demo/springmvc004/pom.xml" afterDir="false" />
+      <change beforePath="I:/spring_demo/springmvc004/src/main/java/controller/HelloAnnotationController.java" beforeDir="false" afterPath="I:/spring_demo/springmvc004/src/main/java/controller/HelloAnnotationController.java" afterDir="false" />
+      <change beforePath="I:/spring_demo/springmvc004/src/main/java/controller/UserController.java" beforeDir="false" afterPath="I:/spring_demo/springmvc004/src/main/java/controller/UserController.java" afterDir="false" />
+      <change beforePath="I:/spring_demo/springmvc004/src/main/resources/springmvc.xml" beforeDir="false" afterPath="I:/spring_demo/springmvc004/src/main/resources/springmvc.xml" afterDir="false" />
+      <change beforePath="I:/spring_demo/z-shop/zshop_parent/shop_backend_web/src/main/resources/logs/logback.txt" beforeDir="false" afterPath="I:/spring_demo/z-shop/zshop_parent/shop_backend_web/src/main/resources/logs/logback.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bookshop_parent/target/" />
+    <ignored path="$PROJECT_DIR$/bookshop_parent/bookshop_common/target/" />
+    <ignored path="$PROJECT_DIR$/bookshop_parent/bookshop_dao/target/" />
+    <ignored path="$PROJECT_DIR$/bookshop_parent/bookshop_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/bookshop_parent/bookshop_service/target/" />
+    <ignored path="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookshop_parent/bookshop_front_web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookshop: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-681366314">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="jsp" value="2" />
+          <entry key="properties" value="5" />
+          <entry key="sql" value="1" />
+          <entry key="xml" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="JSP" value="2" />
+          <entry key="Properties" value="5" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="493" />
+          <entry key="jsp" value="16" />
+          <entry key="properties" value="9" />
+          <entry key="txt" value="19" />
+          <entry key="xml" value="150" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="493" />
+          <entry key="JSP" value="16" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Properties" value="9" />
+          <entry key="XML" value="150" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="I:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_front_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_common/pom.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_front_web/pom.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/resources/dataSource.properties" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_dao/src/main/java/com/xzy/dao/TestDao.java" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_service/src/main/java/com/xzy/service/TestService.java" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_service/src/main/java/com/xzy/service/impl/TestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/pom.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/resources/spring-dao.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_dao/src/main/java/com/xzy/mapper/TestMapper.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_service/pom.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/java/com/xzy/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/webapp/WEB-INF/views/hello.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookshop_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookshop_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_backend_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xzy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xzy" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xzy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookshop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshop_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xzy" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548407900399" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bookshop_parent/bookshop_front_web" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\bookshopdirectory\bookshop\bookshop_parent\bookshop_front_web\src\main\resources" />
+      <recent name="I:\bookshopdirectory\bookshop\bookshop_parent\bookshop_backend_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="tomcat 8.5.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/backend/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="bookshop_backend_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/backend" />
+          </settings>
+        </artifact>
+        <artifact name="bookshop_front_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/front" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_bookshop_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61559" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bookshop_backend_web:war" />
+          <artifact name="bookshop_front_web:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c642bdcb-97e6-4753-bd2f-7f07d1c3cca0" name="Default Changelist" comment="" />
+      <created>1548234067683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548234067683</updated>
+      <workItem from="1548234070412" duration="1917000" />
+      <workItem from="1548247937714" duration="2013000" />
+      <workItem from="1548289496201" duration="67000" />
+      <workItem from="1548399065924" duration="8590000" />
+    </task>
+    <task id="LOCAL-00001" summary="bookshop">
+      <created>1548407446416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548407446416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12587000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24865952" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.32907802" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1035461" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3219858" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Translate" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32965517" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32908848" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bookshop" />
+    <option name="LAST_COMMIT_MESSAGE" value="bookshop" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_front_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="102" column="19" lean-forward="true" selection-start-line="102" selection-start-column="19" selection-end-line="102" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_front_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b39ec87f-6407-40b3-a0aa-e0f182fcad2a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/resources/spring-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_front_web/src/main/resources/spring-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="58" lean-forward="true" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_front_web/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_front_web/src/main/resources/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_front_web/src/main/resources/dataSource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_dao/src/main/java/com/xzy/dao/TestDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_service/src/main/java/com/xzy/service/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_service/src/main/java/com/xzy/service/impl/TestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_dao/src/main/java/com/xzy/mapper/TestMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/resources/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/resources/dataSource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/java/com/xzy/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/src/main/webapp/WEB-INF/views/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/bookshop_backend_web.iml" filepath="$PROJECT_DIR$/bookshop_parent/bookshop_backend_web/bookshop_backend_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop_parent/bookshop_common/bookshop_common.iml" filepath="$PROJECT_DIR$/bookshop_parent/bookshop_common/bookshop_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop_parent/bookshop_dao/bookshop_dao.iml" filepath="$PROJECT_DIR$/bookshop_parent/bookshop_dao/bookshop_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop_parent/bookshop_front_web/bookshop_front_web.iml" filepath="$PROJECT_DIR$/bookshop_parent/bookshop_front_web/bookshop_front_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop_parent/bookshop_parent.iml" filepath="$PROJECT_DIR$/bookshop_parent/bookshop_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop_parent/bookshop_pojo/bookshop_pojo.iml" filepath="$PROJECT_DIR$/bookshop_parent/bookshop_pojo/bookshop_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop_parent/bookshop_service/bookshop_service.iml" filepath="$PROJECT_DIR$/bookshop_parent/bookshop_service/bookshop_service.iml" />
+    </modules>
+  </component>
+</project>
